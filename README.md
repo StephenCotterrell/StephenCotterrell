@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Stephen Cotterrell
+
+- I'm currently learning Go at the moment
 
 <!--
 **StephenCotterrell/StephenCotterrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
